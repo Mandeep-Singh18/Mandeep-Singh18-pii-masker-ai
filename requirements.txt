@@ -1,0 +1,5 @@
+fastapi               # async, high-perf Python backend (clean + scalable)
+uvicorn               # ASGI server for FastAPI   
+easyocr               # OCR library for text extraction
+opencv-python         # OpenCV for image processing
+python-multipart       
