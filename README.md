@@ -1,6 +1,7 @@
 # 🔒 PII Masker AI
 
 A full-stack AI-powered web application that detects and masks Personally Identifiable Information (PII) like names, Aadhaar numbers, phone numbers, emails, and addresses from uploaded ID card images.
+ — and lets users **download the masked image**
 
 Built using FastAPI, EasyOCR, spaCy, OpenCV, React, and Tailwind CSS.
 
