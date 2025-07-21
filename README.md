@@ -4,9 +4,16 @@ A full-stack AI-powered web application that detects and masks Personally Identi
 
 Built using FastAPI, EasyOCR, spaCy, OpenCV, React, and Tailwind CSS.
 
-![demo](https://drive.google.com/file/d/1GduC2K51Ei8Je6mBn871mLCjUjH7VKA7/view?usp=sharing)
-
 ---
+
+## 🖼️ Live Demo (GIF/Screenshot)
+
+Upload Aadhaar card → detect text → mask PII → show result
+
+  <img width="1855" height="870" alt="Screenshot 2025-07-21 165016" src="https://github.com/user-attachments/assets/71c17ed4-b6e3-412d-9a18-3a854ab60d13" />
+  
+   ![masked_output](https://github.com/user-attachments/assets/4bffd6c9-7be6-44e5-acab-27dc98261611)
+
 
 ## 🚀 Tech Stack
 
@@ -44,6 +51,8 @@ pii-masker-ai/
 └── masked/ # Output folder for redacted images
 ```
 
+
+
 ## ⚙️ Setup Instructions
 
 ### 🔧 Backend (FastAPI + Python)
@@ -65,10 +74,6 @@ npm install
 npm run dev   # or npm start (depending on your setup)
 ```
 App runs at: http://localhost:5173 (Vite default port)
-
-## 🖼️ Live Demo (GIF/Screenshot)
-
-Upload Aadhaar card → detect text → mask PII → show result
 
 
 
